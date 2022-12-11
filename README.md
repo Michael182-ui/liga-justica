@@ -11,3 +11,5 @@ Actualizado desde github
 ##Otros cambios
 
 Estos son otros cambios
+
+##Cambios realizados desde vs Code
