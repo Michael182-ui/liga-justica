@@ -13,3 +13,4 @@ Actualizado desde github
 Estos son otros cambios
 
 ##Cambios realizados desde vs Code
+estos cambios ahora son realizados desde github en la web
