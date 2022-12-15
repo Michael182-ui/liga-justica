@@ -9,5 +9,4 @@ Pueden hacer lo que quieran...
 Actualizado desde github
 
 ##Otros cambios
-
-quitamos cambios realizados dentro de este archivo y de esta linea en git
+##Nueva linea creada
