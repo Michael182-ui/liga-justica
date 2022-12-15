@@ -10,4 +10,4 @@ Actualizado desde github
 
 ##Otros cambios
 
-quitamos cambios realizados dentro de este archivo
+quitamos cambios realizados dentro de este archivo y de esta linea en git
